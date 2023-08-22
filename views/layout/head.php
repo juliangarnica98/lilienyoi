@@ -6,7 +6,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Enjoy con Lili</title>
+  <title>Enyoi con Lili</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
   <link href="assets/img/ico3.png" rel="icon">
