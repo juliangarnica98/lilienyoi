@@ -517,14 +517,53 @@ section {
   height:260px;
 }
 .btn-lili{
-  background-color: #E52B7F;
+  background: rgb(229,45,127);
+  background: linear-gradient(90deg, rgba(229,45,127,1) 0%, rgba(0,168,159,1) 100%);
   color: #fff;
+  border: none;
+  font-weight: bold;
+  width: 75%;
+  font-size: 45px;
+  border-radius: 12px;
+  padding: 0;
 }
 .btn-lili:hover{
-  background-color: #000000;
+  background: rgb(229,45,127);
+  background: linear-gradient(90deg, rgba(229,45,127,1) 0%, rgba(0,168,159,1) 100%);
   color: #fff;
+  border: none;
+  font-weight: bold;
+  width: 75%;
+  font-size: 45px;
+  border-radius: 12px;
+  padding: 0;
 }
 
+@media only screen and (max-width: 600px) {
+  .btn-lili{
+    background: rgb(229,45,127);
+    background: linear-gradient(90deg, rgba(229,45,127,1) 0%, rgba(0,168,159,1) 100%);
+    color: #fff;
+    border: none;
+    font-weight: bold;
+    width: 75%;
+    font-size: 25px;
+    border-radius: 12px;
+    padding: 0;
+  }
+}
+.title-lili{
+  font-weight: bold;
+  font-size: 4.5vh;
+  background: -webkit-linear-gradient(0deg, rgba(229,45,127,1) 0%, rgba(0,168,159,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.title-box{
+  font-weight: bold;
+  font-size: 6vh;
+  color: #000000;
+}
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {

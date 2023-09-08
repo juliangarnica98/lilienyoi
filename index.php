@@ -1,7 +1,7 @@
 <?php
 // index.php
 
-$basePath = '/beneficios';
+$basePath = '/enyoiconlili.com';
 
 // Obtener la URL solicitada
 $requestUri = $_SERVER['REQUEST_URI'];
